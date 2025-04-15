@@ -1,0 +1,5 @@
+{
+  "name" : "bare-accum",
+  "base" : "bare-base.json",
+  "bin" : "accum.riscv",
+}
