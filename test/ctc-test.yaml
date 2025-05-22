@@ -1,0 +1,5 @@
+{
+  "name" : "ctc-test",
+  "base" : "bare-base.json",
+  "bin" : "ctc-test.riscv",
+}
