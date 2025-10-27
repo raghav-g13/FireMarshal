@@ -1,0 +1,5 @@
+{
+  "name" : "opu-m2-gemm",
+  "base" : "bare-base.json",
+  "bin" : "opu-m2-gemm.riscv",
+}
